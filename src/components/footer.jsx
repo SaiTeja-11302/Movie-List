@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "../CSS/Footer.css"; // Import the CSS file
+import "../CSS/footer.css"; // Import the CSS file
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTwitter, faFacebook, faInstagram } from "@fortawesome/free-brands-svg-icons";
 
